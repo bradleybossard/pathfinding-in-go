@@ -6,6 +6,8 @@ This repo is intended for implementing some simple pathfinding algorithm (detail
 
 [Introduction to the A* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
 
+[Grids and Graphs](https://www.redblobgames.com/pathfinding/grids/graphs.html)
+
 [Implementation of A*](https://www.redblobgames.com/pathfinding/a-star/implementation.html)
 
 [Pathfinding for Tower Defense](https://www.redblobgames.com/pathfinding/tower-defense/)
